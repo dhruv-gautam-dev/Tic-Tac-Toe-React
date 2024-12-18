@@ -1,6 +1,6 @@
 import { FaTimes, FaPen, FaRegCircle } from "react-icons/fa";
 
-function Icon(name) {
+function Icon({ name }) {
   if (name == "cross") {
     return <FaTimes />;
   } else if (name == "circle") {

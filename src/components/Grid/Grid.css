@@ -9,3 +9,11 @@
 .turn-highlight{
   color: white;
 }
+.reset{
+  padding: 0.5rem 2rem;
+  margin-left: 100px;
+}
+.flexItem{
+  display: flex;
+  margin-bottom: 50px;
+}
